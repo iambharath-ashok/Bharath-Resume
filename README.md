@@ -1,5 +1,5 @@
 # Bharath-Resume
-Bharath Ashok Full Stack Developer
+Full Stack Developer
 
 
                                                 Bharath Ashok
