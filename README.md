@@ -2,10 +2,10 @@
 ### Java Full Stack Developer
 
 
-                                                Bharath Ashok
-                                          iambharath.ashoka@gmail.com
-                                             +91 88618-66209
-                                        https://github.com/iambharath-ashok
+							Bharath Ashok
+						  iambharath.ashoka@gmail.com
+						     +91 88618-66209
+						https://github.com/iambharath-ashok
 
 
 #### PROFESSIONAL SUMMARY:
