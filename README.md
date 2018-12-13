@@ -1,5 +1,5 @@
 # Bharath-Resume
-### Java Full Stack Developer
+### Java Full Stack Developer and Solutions Architect
 
 
 							Bharath Ashok
